@@ -1,22 +1,69 @@
-## Oi eu sou o Patrick, estudante de programação!
-<div align="left">
-  <a href="https://github.com/PatrickSimoes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PatrickSimoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSimoes&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  <h1> Estou estudando: </h1>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Patrick-VUE"  height="30" width="40" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img align="center" alt="Patrick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Patrick-CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Patrick-Js"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+# Olá, Eu sou o Patrick Simões <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+
+## Habilidades:
+  ### Web e Linguagens de Programação
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="75px" alt="Html" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75px" alt="Css" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75px" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="75px" alt="PHP" />
+  </div
+
+  <br>
   
-  ##
- 
-<div> 
-  <a href = "mailto:patricksimoes25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/patrick-s-87277511a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  ### Frameworks e Bibliotecas
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="75px" alt="Laravel" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="75px" alt="Vue.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="75px" alt="Vuetify" />
+  </div
+
+  <br>
   
-  ![Snake animation](https://github.com/PatrickSimoes/PatrickSimoes/blob/output/github-contribution-grid-snake.svg)
+  ### Ferramentas:
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="75px" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="75px" alt="Github" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="75px" alt="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="75px" alt="Composer" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="75px" alt="VScode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="75px" alt="Jira" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" width="75px" alt="Confluence" />
+  </div>
+
+  <br>
+
+  ### Banco de Dados
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="75px" alt="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="75px" alt="MySQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="75px" alt="Firebase" />
+  </div>
+    
+  <br>
+
+## Hobbies:
+
+  Meus hobbies favoritos seriam jogar, ouvir música e assitir animes, é tão bom pra relaxar depois de uma dia bem trabalhado!😁.
+
+## Contato:
+  #### Fique à vontade para me enviar um e-mail, mensagem no WhatsApp ou conectar no LinkedIn.
+  <div align="left">
+    <a href="www.google.com" target="blank"> 
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="www.google.com" target="blank"> 
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Email" />
+    </a>
+    <a href="www.google.com" target="blank"> 
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Email" />
+    </a>
+  </div>
+  
+<!--
+Site para imagens 
+habilidades:
+  https://devicon.dev/
+contato:
+https://dev.to/envoy_/150-badges-for-github-pnk
+-->
