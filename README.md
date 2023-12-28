@@ -49,13 +49,13 @@
 ## Contato:
   #### Fique à vontade para me enviar um e-mail, mensagem no WhatsApp ou conectar no LinkedIn.
   <div>
-    <a href="patricksimoes25@gmail.com" target="blank"> 
+    <a href="patricksimoes25@gmail.com" target="_blank"> 
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email.Patrick" />
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5541988777222&text=Oi%2C%20vi%20com%20o%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA" target="blank"> 
+    <a href="https://api.whatsapp.com/send?phone=5541988777222&text=Oi%2C%20vi%20com%20o%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA" target="_blank"> 
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsAPP.Patrick" />
     </a>
-    <a href="https://www.linkedin.com/in/patrick-s-87277511a/" target="blank"> 
+    <a href="https://www.linkedin.com/in/patrick-s-87277511a/" target="_blank"> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.Patrick" />
     </a>
   </div>
