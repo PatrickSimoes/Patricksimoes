@@ -1,7 +1,7 @@
 # Olá, Eu sou o Patrick Simões <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 
-## Habilidades:
-  ### Web e Linguagens de Programação
+### Habilidades:
+  ### Web e Linguagens de Programação:
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="75px" alt="Html" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75px" alt="Css" />
@@ -11,7 +11,7 @@
 
   <br>
   
-  ### Frameworks e Bibliotecas
+  ### Frameworks e Bibliotecas:
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="75px" alt="Laravel" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="75px" alt="Vue.js" />
@@ -26,27 +26,27 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="75px" alt="Github" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="75px" alt="Docker" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="75px" alt="Composer" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="75px" alt="VScode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="75px" alt="Jira" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" width="75px" alt="Confluence" />
   </div>
 
   <br>
 
-  ### Banco de Dados
+  ### Banco de Dados:
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="75px" alt="PostgreSQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="75px" alt="MySQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="75px" alt="Firebase" />
   </div>
-    
-  <br>
+  
+  <hr>
 
-## Hobbies:
+### Hobbies:
+Meus hobbies favoritos seriam jogar, ouvir música e assitir animes, é tão bom pra relaxar depois de uma dia bem trabalhado!😁.
 
-  Meus hobbies favoritos seriam jogar, ouvir música e assitir animes, é tão bom pra relaxar depois de uma dia bem trabalhado!😁.
+<hr>
 
-## Contato:
+### Contato:
   #### Fique à vontade para me enviar um e-mail, mensagem no WhatsApp ou conectar no LinkedIn.
   <div>
     <a href="mailto:patricksimoes25@gmail.com"> 
@@ -58,8 +58,7 @@
     <a href="https://www.linkedin.com/in/patrick-s-87277511a/"> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.Patrick" />
     </a>
-  </div>
-  
+  </div>  
 <!--
 Site para imagens 
 habilidades:
