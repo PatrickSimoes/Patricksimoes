@@ -13,7 +13,7 @@
   
   ### Frameworks e Bibliotecas:
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="75px" alt="Laravel" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="75px" alt="Laravel" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="75px" alt="Vue.js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="75px" alt="Vuetify" />
   </div
