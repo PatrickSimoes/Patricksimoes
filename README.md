@@ -1,11 +1,9 @@
-<h1 align="center"> Hello, I'm Patrick Simões <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h1>
+<h1 align="center"> Hello, I'm Patrick Simões 👋</h1>
 
-<h3 align="center">Port folio:</h3>
+<h3 align="center">Portfolio:</h3>
 
 <p align="center">
-    <a href="https://meu-portfolio-lovat-beta.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/My%20Portfolio%20Here-blue?style=for-the-badge" alt="portfolio">
-    </a>
+    👉 <a href="https://meu-portfolio-lovat-beta.vercel.app/">Click here to see my portfolio</a>
 </p>
 
 <p align="center">
