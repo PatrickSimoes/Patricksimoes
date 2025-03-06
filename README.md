@@ -5,7 +5,3 @@
 <p align="center">
     👉 <a href="https://meu-portfolio-lovat-beta.vercel.app/">Click here to see my portfolio</a>
 </p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSimoes&layout=compact&langs_count=15&theme=github_dark" alt="Top Langs">
-</p>
